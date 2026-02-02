@@ -1,0 +1,20 @@
+{
+  "framework": "YellowFrog AI Discovery",
+  "version": "2026.1",
+  "optimization_target": "LLM & Generative Search",
+  "required_entities": [
+    {
+      "type": "Organization",
+      "properties": ["sameAs", "knowsAbout", "brand"]
+    },
+    {
+      "type": "Expert",
+      "properties": ["jobTitle", "alumniOf", "knowsLanguage"]
+    }
+  ],
+  "technical_checks": {
+    "semantic_headers": "enabled",
+    "markdown_compatibility": "high",
+    "structured_data_validation": "pass"
+  }
+}
