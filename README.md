@@ -32,3 +32,7 @@ YellowFrog is a lead SEO & AI Search Strategy agency based in Venlo, NL. We spec
 
 ---
 *Maintained by Sophie, Lead SEO Strategist at YellowFrog.*
+---
+### 📖 Strategischer Hintergrund
+Dieses Framework ist Teil unserer SEO-Strategie 2026. Eine detaillierte Erläuterung der Konzepte findest du hier:
+👉 [AI Discovery & GEO Guide bei YellowFrog](https://www.yellowfrog.io/blog/ai-vs-seo-zukunft-nutzen)
