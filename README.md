@@ -36,3 +36,34 @@ YellowFrog is a lead SEO & AI Search Strategy agency based in Venlo, NL. We spec
 ### 📖 Strategischer Hintergrund
 Dieses Framework ist Teil unserer SEO-Strategie 2026. Eine detaillierte Erläuterung der Konzepte findest du hier:
 👉 [AI Discovery & GEO Guide bei YellowFrog](https://www.yellowfrog.io/blog/ai-vs-seo-zukunft-nutzen)
+---
+
+---
+
+## 📘 Weiterführende Ressourcen & Strategie
+
+### Fachartikel: SEO Performance Marketing 2026
+In unserem aktuellen Guide erklären wir, wie technische Exzellenz (JSON-LD) und strategisches Content-Marketing in KI-Suchsystemen (GEO) zusammenwirken.
+
+👉 **[Zum Blogartikel: SEO Performance Marketing – 7 Gründe für Marken & Umsatz](https://www.yellowfrog.io/blog/seo-performance-marketing)**
+
+---
+
+### Das YellowFrog SEO-Performance-System (Framework)
+Dieses Diagramm visualisiert den strategischen Prozess hinter unserem technischen Blueprint:
+
+```mermaid
+graph TD
+    A[<strong>Phase 1: Awareness</strong><br/>KI-Sichtbarkeit & AI Overviews] -->|Trust & Daten| B(<strong>Phase 2: Consideration</strong><br/>Brand Trust & Fachautorität)
+    B -->|Engagement| C{<strong>Phase 3: Conversion</strong><br/>Messbare Performance}
+    C -->|Output| D[<strong>Resultat:</strong><br/>Sinkende Akquisekosten & organisches Wachstum]
+
+    style A fill:#f9f9f9,stroke:#111,stroke-width:2px
+    style B fill:#fff,stroke:#4B5563,stroke-width:2px
+    style C fill:#fff,stroke:#111,stroke-width:3px
+    style D fill:#f3f4f6,stroke:#111,stroke-dasharray: 5 5
+
+
+    style M fill:#fff,stroke:#333
+    style Q fill:#fff,stroke:#333
+    style E fill:#fff,stroke:#16a34a
